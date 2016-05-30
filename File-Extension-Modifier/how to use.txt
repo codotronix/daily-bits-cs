@@ -1,0 +1,12 @@
+Q. What it Does ?
+A: It takes 3 params 
+  1. path to the directory where the target files are
+  2. string that the files to target ends with (e.g. ".js" or ".js.txt")
+  3. string that will replace param 2 in the target file name
+  
+Q. How to Use ?
+A. Get the .exe file or compile the .cs file to get the .exe file. Then in your cmd prompt, type
+   <path_to_exe> <param_1> <param_2> <param_3>
+   
+   Example,
+   extMod.exe "C://My JS Folder" ".js" ".js.txt"
