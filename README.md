@@ -4,7 +4,7 @@ Small and easy to run C# codes to solve small problems of our daily life. Each c
 
 ## Table of contents
 
-1. [File Extension Modifier](#file-extension-modifier)
+1. [File Extension Modifier](#user-content-1-file-extension-modifier)
 
 
 
