@@ -2,8 +2,13 @@
 Small and easy to run C# codes to solve small problems of our daily life. Each code should be contained in its own folder with all the necessary instructions and help documentation.
 
 
+## Table of contents
 
-## 1. File-Extension-Modifier
+1. [File Extension Modifier](#file-extension-modifier)
+
+
+
+## 1. File Extension Modifier
 
 #### 1.A. What Does it Do ?
   It takes 3 params (parameters)
